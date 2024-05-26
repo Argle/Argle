@@ -1,6 +1,13 @@
-- 👋 Hi, I’m Argle
+- 👋 Hi, I’m Argle!
+  - I've been a senior programmer since 1984.
+  - Taught programming to professionals since 1986.
+  - Been a son since 1961.
+  - Been a father since 1988.
+  - Been a grandfather since 2018.
 - 👀 I’m interested in Music, Movies and arts and crafts
-- 🌱 I’m currently learning Svelte 5
+- 🌱 I’m currently learning:
+  -  Svelte 5
+  -  Airbrushing
 - 💞️ I’m looking to collaborate on:
   - a Svelte component library for Svelte 5. Features:
     - Full collection of components that match Windows/Max/Linux objects
